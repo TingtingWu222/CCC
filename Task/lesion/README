@@ -1,0 +1,16 @@
+This folder contains E-prime programs used to run the MFT-M in the lesion study, with instructions in Chinese.
+
+To run the task: 
+  Open the file “MFT-M3_training_CH_2014_07_07.ebs2” to run the practice (4 runs with 4 minutes for each) and “MFT-M3_behavioral_CH_2014_07_07.ebs2” to run the formal task (12 runs with 4 min for each). 
+  
+To edit the task
+  Open the corresponding .es2 files. Note: Basic acknowledge about E-prime programming is necessary for editing the task. Any modification on the task design or task parameters may impact the behavioral results. 
+
+Instruction (English version): 
+  “This is an experiment investigating attention. You will be shown 5 arrows on the screen pointing left or right. Your task is to indicate the direction in which the majority of the arrows point.  You should indicate "Left" by pressing the button under your left index finger if the majority of the arrows point left, or "Right" by pressing the button under your right index finger if the majority point right. After the arrows appear, they will be masked with double-arrowheads.  You will have a short window after the onset of the arrows in which to make your response. Accuracy is the most important goal in this task.  Please try to be as accurate as possible. If you are not sure about the correct answer, please guess. Notice: please make sure to make response in every trial. After each trial, you will be told whether you answered correctly or not.”
+  
+Response buttons:
+  “f” for left and “j” for right.
+
+Stimuli needed to load are in the "STIMULI" folder.
+Instructions (in Chinese) needed to load are in the "INSTRUCTION" folder.
