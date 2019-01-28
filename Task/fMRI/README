@@ -12,3 +12,5 @@ Instruction:
 Response buttons:
   Practics: “f” for left and “j” for right.
   Formal task in the scanner: “2” for left and “7” for right. The trigger from the scanner to initiate the task is “=”. 
+
+Stimuli needed to load are in the "STIMULI" folder.
