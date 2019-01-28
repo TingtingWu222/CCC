@@ -4,3 +4,6 @@ Wu, T., Wang, X., Wu, Q., Spagna, A., Yang, J., Yuan, C., . . . Fan, J. (Under r
 
 This project is composts by 4 components:
 (1) Task. E-prime programs for task presentation.
+(2) Estimate CCC. Matlab scripts for estimating the capacity of cognitive control (CCC) using behavioral data.
+(3) fMRI. Matlab, Python, and R scripts for analyzing the fMRI data.
+(4) Lesion. Matlab script for the non-parametric bootstrapping used in the lesion study.
